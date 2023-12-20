@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isaac Peng (彭仕昭)
+title: Isaac Peng
 
 # Name pronunciation (optional)
 name_pronunciation: Peng Shizhao
@@ -11,7 +11,7 @@ last_name: Peng
 
 # Status emoji
 status:
-  icon: 🌌
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
