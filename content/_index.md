@@ -241,33 +241,32 @@ sections:
       phone: (+86) 131 6100 7610
       #appointment_url: 'https://calendly.com'
       address:
-        street: Xueyuan Road 37, Haidian District
-        city: Beijing
+        street: Xueyuan Road 37
+        city:  Haidian District
         region: Beijing
         postcode: '100191'
         country: China
         country_code: CN
-      directions: Enter New Main Building No.H and take the stairs to Office 1021 on Floor 10
+      directions: Enter New Main Building in Beihang University and take the stairs to Office H1021 on Floor 10
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday-Friday 07:00 to 23:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '116.347313'
+        latitude: '116.351361'
         longitude: '39.981771'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      #contact_links:
+        #- icon: twitter
+          #icon_pack: fab
+          #name: DM Me
+          #link: 'https://twitter.com/Twitter'
+        #- icon: skype
+          #icon_pack: fab
+          #name: Skype Me
+          #link: 'skype:echo123?call'
+        #- icon: video
+          #icon_pack: fas
+          #name: Zoom Me
+          #link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
