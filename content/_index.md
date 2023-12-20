@@ -234,8 +234,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: by1806167@buaa.edu.cn
       phone: (+86) 131 6100 7610
@@ -247,7 +247,7 @@ sections:
         postcode: '100191'
         country: China
         country_code: CN
-      directions: Enter New Main Building in Beihang University and take the stairs to Office H1021 on Floor 10
+      #directions: Enter New Main Building in Beihang University and take the stairs to Office H1021 on Floor 10
       office_hours:
         - 'Monday-Friday 07:00 to 23:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
