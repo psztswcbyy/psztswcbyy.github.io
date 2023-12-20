@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isaac Peng
+title: Isaac Peng (彭仕昭)
 
 # Name pronunciation (optional)
 name_pronunciation: Peng Shizhao
