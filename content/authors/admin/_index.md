@@ -3,7 +3,7 @@
 title: Isaac Peng
 
 # Name pronunciation (optional)
-name_pronunciation: Peng Shizhao
+name_pronunciation: Peng Shizhao (彭仕昭)
 
 # Full name (for SEO)
 first_name: Shizhao
