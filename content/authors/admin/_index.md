@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Isaac Peng 彭仕昭
+title: Isaac Peng
 
 # Name pronunciation (optional)
-name_pronunciation: PENG SHI ZHAO
+name_pronunciation: Peng Shizhao
 
 # Full name (for SEO)
 first_name: Shizhao
@@ -92,22 +92,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:by1806167@buaa.edu.cn
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=EQoTrO0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/psztswcbyy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E4%BB%95%E6%98%AD-%E5%BD%AD-9a082a180/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Isaac Peng is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shizhao Peng is a PhD of Data Security at the Key Laboratory of Data Science and Intelligent Computing, Beihang University. His research interests include Privacy Enhanced Technology，Privacy-Preserving Machine Learning，Distributed Computing，Complex System. 
 {style="text-align: justify;"}
