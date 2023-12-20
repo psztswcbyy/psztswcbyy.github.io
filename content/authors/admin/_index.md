@@ -1,50 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Isaac Peng 彭仕昭
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: PENG SHI ZHAO
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shizhao
+last_name: Peng
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌌
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD of Data Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Beihang University
+    url: https://scse.buaa.edu.cn/English/Home.htm
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Privacy Enhanced Technology，Privacy-Preserving Machine Learning，Distributed Computing，Complex System.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Security
+  - Privacy Computing
+  - Federated Learning 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Privacy Computing
+      institution: Beihang University
+      year: 2018
+    - course: MSc in Biomedical Optics
+      institution: Beijing Institute of Technology
+      year: 2015
+    - course: BSc in Instrument Science and Technology
+      institution: Beijing Institute of Technology
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Isaac Peng is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
