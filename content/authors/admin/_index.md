@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Shizhao Peng is a PhD of Data Security at the Key Laboratory of Data Science and Intelligent Computing, Beihang University. His research interests include Privacy Enhanced Technology，Privacy-Preserving Machine Learning，Distributed Computing，Complex System. 
+Shizhao Peng is a PhD of Data Security at the Key Laboratory of Data Science and Intelligent Computing, Beihang University. His research interests include Privacy Enhanced Technology，Privacy-Preserving Machine Learning，Distributed Computing，Complex System. 🌌
 {style="text-align: justify;"}
