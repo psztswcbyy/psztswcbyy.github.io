@@ -11,7 +11,7 @@ last_name: Peng
 
 # Status emoji
 status:
-  icon: 
+  icon: 🤣
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,39 +31,40 @@ interests:
   - Data Security
   - Privacy Computing
   - Federated Learning 
+  - Distributed Computing
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Privacy Computing
-      institution: Beihang University
-      year: 2018
+      institution: Beihang University,Beijing Advanced Innovation Center for Future Blockchain and Privacy Computing
+      year: 2018-2024
     - course: MSc in Biomedical Optics
-      institution: Beijing Institute of Technology
-      year: 2015
+      institution: Beijing Institute of Technology,Joint Lab for Information Photonics
+      year: 2015-2018
     - course: BSc in Instrument Science and Technology
-      institution: Beijing Institute of Technology
-      year: 2011
+      institution: Beijing Institute of Technology,School of Optics and Photonics
+      year: 2011-2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Privacy Computing
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        percent: 90
+        icon: shield-halved
+        icon_pack: fas
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Artificial Intelligence
         description: ''
         percent: 40
-        icon: database
+        icon: brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
