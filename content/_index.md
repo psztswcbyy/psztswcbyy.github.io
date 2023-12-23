@@ -249,11 +249,11 @@ sections:
         country_code: CN
       #directions: Enter New Main Building in Beihang University and take the stairs to Office H1021 on Floor 10
       office_hours:
-        - 'Monday-Friday 07:00 to 23:00'
+        - 'Monday --> Friday 07:00AM to 23:00PM'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '116.351361'
-        longitude: '39.981771'  
+        latitude: ''
+        longitude: ''  
       #contact_links:
         #- icon: twitter
           #icon_pack: fab
@@ -270,13 +270,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+        #provider: netlify
+        #formspree:
+          #id:
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          #captcha: false
     design:
       columns: '2'
 ---
